@@ -12,9 +12,13 @@ c = a - b
 print(c)
 c = a + b
 print(c)
-c = a * b
-print(c)
-c = a / b
-print(c)
+
+if a == b:
+    print('a is equal to b')
+elif a > b:
+    print('a is greater than b')
+else:
+    print('a is less than b')
+
 
 # This is a comment
