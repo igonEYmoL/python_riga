@@ -31,4 +31,3 @@ while favorite_dish(Pasta, Creams, Salmon, Riz) != "Impossible to cook with salm
         break
         
 
-        
